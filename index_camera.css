@@ -12,9 +12,9 @@
 	height: 20px;
 }
 
-.imgAR{
-	width: 300px;
-	height: 200px;
+.AR{
+	width: 200px;
+	height: 120px;
 }
 
 .map_img{
@@ -191,6 +191,6 @@
 }
 
 #AR{
-	top: 900px;
-	left: 800px;
+	top: 830px;
+	left: 820px;
 }
